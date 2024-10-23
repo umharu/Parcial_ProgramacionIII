@@ -1,4 +1,4 @@
-# Parcial materia Programacion III 
+# Parcial Programacion III 
 ## Profesor Pablo Scrigna
 
 El proyecto es un programa realizado en Python que guarda en una base de datos un SKU, modelo y compatibilidad de "Casa de respuestos IADES".
