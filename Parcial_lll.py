@@ -1,6 +1,21 @@
 #Roldan Capponi Maximiliano
 
-import pymongo 
+from pymongo import MongoClient
+
+url = "mongodb+srv://m4r1obros2:m4r1obros2@cluster0.ngxow.mongodb.net/"
+
+try:
+    cliente = MongoClient(host=[url])
+    response = cliente.server_info()
+except Exception as e:
+    print(e)
+    exit(1)
+print(f"La conexion ha sido exitosa, {response}")
+
+print("Listando las bases de datos: ")
+print(cliente.list_database_names())
+
+
 
 
 import json
