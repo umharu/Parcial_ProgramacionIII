@@ -16,10 +16,10 @@ La conexión a la base de datos se establece a través de una cadena de conexió
 
 **Estructura básica:**
 
-# Menu.py
+## Menu.py
 Posee un menu con 5 opciones para poder insertar, eliminar, consultar y listar
 
-# Parcial_III.py
+## Parcial_III.py
 Posee la conexion a la base de dato y las funciones
 
 * **SKU:** Almacena el ID de los respuestos.
