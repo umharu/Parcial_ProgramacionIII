@@ -10,5 +10,11 @@
         "marca": "Audi",
         "precio": 2000,
         "compatible": "micro"
+    },
+    "asdfgh12": {
+        "nombre": "cadena",
+        "marca": "renaul",
+        "precio": 144,
+        "compatible": "suran"
     }
 }
