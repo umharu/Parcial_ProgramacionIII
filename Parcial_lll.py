@@ -3,7 +3,7 @@
 from pymongo import MongoClient
 
 #Variable de conexion
-url = "mongodb+srv://m4r1obros2:m4r1obros2@cluster0.ngxow.mongodb.net/"
+url = 
 
 #Bloque Try para verificar la conexion a la DB 
 try:
